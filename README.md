@@ -1,6 +1,6 @@
 # VSS-SpatioNet
 
-This project contains the code for **VSS-SpatioNet: A Multiscale Feature Fusion Network for Multimodal Image Integrations** (Author: **Zeyu Xiang**). The code has been validated in MATLAB and Python environments and can be used to reproduce the experimental results presented in the paper.
+This project contains the code for **[VSS-SpatioNet: A Multiscale Feature Fusion Network for Multimodal Image Integrations]** (Author: **Zeyu Xiang**). The code has been validated in MATLAB and Python environments and can be used to reproduce the experimental results presented in the paper.
 
 ## File Structure
 
